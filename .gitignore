@@ -1,0 +1,40 @@
+# Restricted or local data
+data/
+private/
+restricted/
+
+# Common data formats
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.sav
+*.dta
+*.rds
+*.pkl
+*.pickle
+*.joblib
+*.sqlite
+*.db
+
+# Notebooks and local environments
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and local settings
+.env
+.env.*
+secrets.*
+credentials.*
+config.local.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

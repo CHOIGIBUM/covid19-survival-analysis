@@ -18,11 +18,6 @@
   alt="COVID-19 생존율 분석 개요"
 />
 
-<sub>
-분석 구조를 요약한 개요 도식입니다. 이미지 속 생존곡선은 설명용이며,<br/>
-당시 발표자료의 실제 결과 이미지는 아래에 별도로 제시합니다.
-</sub>
-
 <br/><br/>
 
 <a href="./materials/2024-compass-hackathon-poster.pdf">

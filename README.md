@@ -13,11 +13,6 @@
 
 <img src="./assets/overview/covid19-survival-analysis.png" width="100%" alt="COVID-19 생존율 분석 프로젝트 개요" />
 
-<sub>
-프로젝트의 분석 흐름을 정리한 설명용 인포그래픽입니다.<br/>
-이미지 속 생존곡선은 당시 결과값을 그대로 재현한 그래프가 아닙니다.
-</sub>
-
 <br/><br/>
 
 <a href="./materials/2024-compass-hackathon-poster.pdf">

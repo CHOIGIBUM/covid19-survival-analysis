@@ -227,3 +227,13 @@ The analysis used synthetic clinical data, and the findings are described within
 **Team `Insight_'AI'_chemists` · Encouragement Award, 2024 COMPASS Hackathon**
 
 </div>
+
+---
+
+## © Use of Materials
+
+No open-source or Creative Commons license is granted for this repository.
+
+Unless otherwise stated, the **README text and original overview diagrams or analysis figures authored by Gibum Choi** are made available for academic portfolio and review purposes. Please obtain prior permission before reusing, modifying, or redistributing these materials.
+
+The source data are not included and remain subject to the terms of the data provider. Jointly authored materials, award documents, institutional logos, news coverage, and other third-party content are excluded and remain subject to the rights and terms of their respective owners or providers.
